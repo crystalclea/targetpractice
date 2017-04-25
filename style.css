@@ -9,7 +9,7 @@ h1 {
 body {
   counter-reset: game;
   text-align: center;
-  background: #f26846;
+  background: #e9b58b;
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   color: #333;
 }
@@ -160,7 +160,7 @@ input[type="checkbox"] {
   z-index: 200;
   animation: appear .25s forwards;
   animation-delay: 8s;
-  background: repeating-linear-gradient(-45deg, #f26846 0, #f26846 5em, #20c0ff 5em, #20c0ff 10em);
+  background: repeating-linear-gradient(-45deg, #c9ff00 0, #c9ff00 5em, #20c0ff 5em, #20c0ff 10em);
 
   h1 {
     padding: 1em 0 3.5em;
